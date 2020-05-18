@@ -11,4 +11,5 @@ and update informations in config file put your username and password and name o
 <h1>how to listen</h1>
 <p>to connect the home page to play some music section, run your xampp or whatever you use and go to http://localhost/simple-musicplayer/ and registration new account and he redired you to home page
 Finally you can listen to some music</p>
-![](img/music.png)
+
+![alt text](img/music.png)
